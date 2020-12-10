@@ -1,4 +1,4 @@
-# git-intro
+# Wstęp do gita
 
 Po wykonaniu danego ćwiczenia poprzedź je znakami (*).
 Przykładowo ćwiczenie przed wykonaniem wyglądające następująco:
@@ -11,6 +11,7 @@ N. (*) Ćwiczenie do wykonania.
 ```
 
 
+
 Zadanie 2. Zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 Zadanie 3. Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
 Zadanie 4. Zmień punkty w taki sposób aby ich treść zamiast zaczynać się od numeru ćwiczenia `N.` zaczynała się od słów `Zadanie N.`. (+) 
@@ -19,3 +20,4 @@ Zadanie 6. Dodaj informację numerach albumów członków zespołu w dowolny mie
 Zadanie 7. Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 Zadanie 8. Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 Zadanie 9. Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
