@@ -20,3 +20,8 @@ Zadanie 6. Zmień miejscami ćwiczenia których treść kończy się znakami `(-
 Zadanie 7. Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 Zadanie 8. Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
 
+# Numery albumów
+Maciej Szybecki - 129039
+Wiktor Sokół - 130584
+Mateusz Rychlik - 130575
+Maksymilian Siembab - 125669
